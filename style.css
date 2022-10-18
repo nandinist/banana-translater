@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Lobster&family=Montserrat:wght@300;500&display=swap");
 body {
   font-family: "Lobster", cursive;
-  background-color: #fde68a;
+  background-color: #fef9c3;
 }
 .container {
   padding-top: 70px;
@@ -28,6 +28,6 @@ textarea {
 button {
   margin-bottom: 50px;
   font-weight: bold;
-  background-color: #ca8a04;
+  background-color: #fde68a;
   padding: 20px 50px;
 }
